@@ -72,7 +72,7 @@ Through this project, I practiced:
 - Its recommended that the user goes through the option one by one .
 - When choosing 1 , the interpreter will show all pre-defined books in the library i.e. 8 books .
 - Next , the user will be asked to enter "Continue", after entering "Continue" ,the user should choose 2 .
-**Note:** The user will be asked to enter CONTINUE after each iteration. 
+>**Note:** The user will be asked to enter CONTINUE after each iteration. 
 -  That will allow user to search the availability of books , to make sure if the books are in the library or are issued to someone else .
 > **Note:** To do that , user should enter the book name that was previously displayed when the user chose 1 .
 - Accordingly , user can use 3 and 4 to borrow and return new books from the library , based on its Book ID .
