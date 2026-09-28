@@ -31,18 +31,18 @@ cd 26BCE10776_MINI-LIBRARY
 3. Run the main program:
 
 ```bash
-python MINI-LIBRARY.py
+python mini_library.py
 ```
 
-> **Note:** Keep `MINI-LIBRARY.py` and `LIBRARY_MODULE.py` in the same folder, as the main program imports functions from `LIBRARY_MODULE.py`.
+> **Note:** Keep `mini_library.py` and `library_module.py` in the same folder, as the main program imports functions from `libray_module.py`.
 
 ## Project Structure
 
 ```
 Mini-Library/
 │
-├── MINI-LIBRARY.py      # Main program
-├── LIBRARY_MODULE.py    # Contains the library functions
+├── mini_library.py      # Main program
+├── library_module.py    # Contains the library functions
 └── README.md
 ```
 
@@ -62,6 +62,8 @@ Through this project, I practiced:
 - Creating reusable functions
 - Using lists to manage data
 - Implementing conditional statements and loops
+
+## Working of the code 
 
 ## Author
 
