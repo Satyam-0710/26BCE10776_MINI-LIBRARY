@@ -21,8 +21,9 @@ def searchbooks(book_name):
     print("-"*50)
 
     count = book_name.count(f)
-
-    if count == check_name.count(f):
+    if count == 0 : 
+        print("Book doesnt exist in the library.")
+    elif count == check_name.count(f):
         print("The book is already issued to someone else .")
     else:
         print("This book is available to be issued.")
