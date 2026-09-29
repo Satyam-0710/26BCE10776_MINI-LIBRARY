@@ -5,8 +5,8 @@ Mini Library Management System
 The objective of this project is to develop a simple library management system that allows users to manage books . The system provides basic library operations such as adding books, issuing books, returning books , and searching for books .
 
 ## Problem Description
-Managing library books manually can be time-consuming and prone to errors . This project aims to simplify these 
-operations by providing a command-line application where users can interact with a predefined library 
+Managing library books manually can be time-consuming and errors can happen. This project aims to simplify these 
+operations by providing a interpreter based interface where users can interact with a predefined library 
 collection and perform common library tasks.
 
 ## Features
@@ -16,7 +16,6 @@ collection and perform common library tasks.
 - Add new books to the library
 - Return an issued book
 - Check whether a book is available or already issued
-- Exit library 
 
 ## Technologies Used
 - Python 3
