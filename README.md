@@ -65,7 +65,6 @@ Through this project, I practiced:
 - Using lists to manage data
 - Implementing conditional statements and loops
 
-## Working of the code
 
 ## How to run 
 - When running the code , the user will get multiple options , such as Displaying all books , Searching for books , etc.
